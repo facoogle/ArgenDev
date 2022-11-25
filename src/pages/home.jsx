@@ -102,7 +102,7 @@ export function Home() {
                   </Typography>
                 </CardBody>
               </Card>
-            </div>
+            </div> 
           </div>
         </div>
       </section>
